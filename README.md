@@ -16,4 +16,4 @@ First, make sure you're set up for [React Native](https://facebook.github.io/rea
 
 **Step 4:** Start and run react-native.
 
-Or try on [Expo](https://expo.io/@neruto/mirn1)
+### Or try it on [Expo](https://expo.io/@neruto/mirn1)
