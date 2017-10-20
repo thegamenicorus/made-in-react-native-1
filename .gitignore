@@ -1,3 +1,7 @@
+#expo
+.expo/
+npm-debug.*
+
 # Logs
 logs
 *.log
