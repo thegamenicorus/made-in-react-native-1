@@ -8,10 +8,10 @@ This project was inspired by the animation seen on [Dribbble](https://dribbble.c
 
 First, make sure you're set up for [React Native](https://facebook.github.io/react-native/docs/getting-started.html#content) then do following step:
 
-**Step 1:** git clone this repo:
+**Step 1:** git clone this repo.
 
-**Step 2:** cd to the cloned repo:
+**Step 2:** cd to the cloned repo.
 
-**Step 3:** Install all dependencies with `yarn` or `npm i`
+**Step 3:** Install all dependencies with `yarn` or `npm i`.
 
-**Step 4:** Start and run react-native
+**Step 4:** Start and run react-native.
