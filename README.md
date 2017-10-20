@@ -15,3 +15,5 @@ First, make sure you're set up for [React Native](https://facebook.github.io/rea
 **Step 3:** Install all dependencies with `yarn` or `npm i`.
 
 **Step 4:** Start and run react-native.
+
+Or try on [Expo](https://expo.io/@neruto/mirn1)
